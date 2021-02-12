@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 No try there is,do or not.
+=======
+DO OR DO NOT, THERE IS NO TRY.
+>>>>>>> 207699f (Some changes before rebasing)
